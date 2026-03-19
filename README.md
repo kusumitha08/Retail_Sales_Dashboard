@@ -33,11 +33,10 @@ It provides insights into sales performance, profitability, customer segments, a
 📊 Regional Analysis
 The following visuals represent sales performance across different regions (East, West, North, and South), helping identify regional trends and variations.
 
-<img width="1268" height="714" alt="image" src="https://github.com/user-attachments/assets/80935d3f-8609-4dfb-a430-55fd0e5f5f06" />
-<img width="1271" height="718" alt="image" src="https://github.com/user-attachments/assets/55e8d780-7aff-413a-9c5d-730386047832" />
-<img width="1267" height="717" alt="image" src="https://github.com/user-attachments/assets/9d5a5fd0-b602-4646-a914-b006c2259686" />
-<img width="1273" height="713" alt="image" src="https://github.com/user-attachments/assets/760fc681-7205-495c-b301-d29251d71f13" />
-
+<img width="1265" height="717" alt="image" src="https://github.com/user-attachments/assets/c01e2730-d154-4f47-9e7b-edb7cf06dc0c" />
+<img width="1270" height="713" alt="image" src="https://github.com/user-attachments/assets/0251d76e-b5ad-4663-a10a-0f3181661dbd" />
+<img width="1267" height="710" alt="image" src="https://github.com/user-attachments/assets/90c0769d-f941-41dd-8de8-f7ea72732e7b" />
+<img width="1263" height="710" alt="image" src="https://github.com/user-attachments/assets/44d6efb5-36c3-4b72-b03a-e4fbe330edb5" />
 
 🔮 Sales Forecast Analysis
 The following visuals show a 15-day sales forecast based on historical data, helping to predict future trends and support business planning.
